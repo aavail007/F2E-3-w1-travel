@@ -1,5 +1,7 @@
 <template>
-  <div class="bd-primary w-full h-10">Header</div>
+  <header class="w-full h-6 bg-white">
+123
+  </header>
 </template>
 
 <script>
