@@ -28,7 +28,8 @@ module.exports = {
       pink: colors.pink,
       black2: '#000000',
       gray2: '#F5F5F5',
-      gray3: '#707070'
+      gray3: '#707070',
+      gray4: '#E7E7E7'
     },
     spacing: {
       px: '1px',
@@ -157,6 +158,7 @@ module.exports = {
       0: '0px',
       2: '2px',
       4: '4px',
+      6: '6px',
       8: '8px'
     },
     boxShadow: {
