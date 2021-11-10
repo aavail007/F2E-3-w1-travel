@@ -25,7 +25,10 @@ module.exports = {
       blue: colors.blue,
       indigo: colors.indigo,
       purple: colors.violet,
-      pink: colors.pink
+      pink: colors.pink,
+      black2: '#000000',
+      gray2: '#F5F5F5',
+      gray3: '#707070'
     },
     spacing: {
       px: '1px',
