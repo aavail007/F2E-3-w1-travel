@@ -26,3 +26,7 @@
   border-radius: 30px;
   padding: 8px 20px;
 }
+
+.bg-c-primary {
+  background: linear-gradient(155.4deg, #78e389 0.2%, #1eb893 90.81%);
+}

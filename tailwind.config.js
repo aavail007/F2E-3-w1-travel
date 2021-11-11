@@ -29,7 +29,9 @@ module.exports = {
       black2: '#000000',
       gray2: '#F5F5F5',
       gray3: '#707070',
-      gray4: '#E7E7E7'
+      gray4: '#E7E7E7',
+      gray5: '#9A9A9A',
+      gray6: '#F7F7F7'
     },
     spacing: {
       px: '1px',
@@ -151,6 +153,7 @@ module.exports = {
       xl: '0.75rem',
       '2xl': '1rem',
       '3xl': '1.5rem',
+      '8xl': '136px',
       full: '9999px'
     },
     borderWidth: {
